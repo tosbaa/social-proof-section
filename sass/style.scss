@@ -208,8 +208,13 @@ main {
 
     @media screen and (max-width: 475px) {
     main {
-        padding: 1rem;
         grid-template-rows: 40rem 40rem 50rem;
+    }
+}
+
+@media screen and (max-width: 397px) {
+    main {
+        grid-template-rows: 45rem 40rem 50rem;
     }
 }
 
