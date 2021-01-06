@@ -67,7 +67,7 @@ main {
     }
 
     .rating {
-        margin-right: 6%;
+        margin-right: 12%;
         margin-left: 4%;
     }
 
@@ -173,6 +173,10 @@ main {
 
         .rating, p {
             display: block;
+        }
+
+        .rating {
+            margin: 0;
         }
     }
 

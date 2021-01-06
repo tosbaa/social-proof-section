@@ -53,7 +53,7 @@ main {
   display: inline-block;
 }
 .mentions .rating {
-  margin-right: 6%;
+  margin-right: 12%;
   margin-left: 4%;
 }
 .mentions img:not(:last-child) {
@@ -143,6 +143,9 @@ main {
   }
   .mentions .rating, .mentions p {
     display: block;
+  }
+  .mentions .rating {
+    margin: 0;
   }
 
   .buyer-cards {
