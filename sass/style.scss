@@ -194,4 +194,10 @@ main {
     .mentions ul li {
         display: block;
     }
+@media screen and (max-width: 475px) {
+    main {
+        padding: 1rem;
+    }
+}
+
 }

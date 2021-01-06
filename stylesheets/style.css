@@ -161,5 +161,10 @@ main {
     display: block;
   }
 }
+@media screen and (max-width: 1009px) and (max-width: 475px) {
+  main {
+    padding: 1rem;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
